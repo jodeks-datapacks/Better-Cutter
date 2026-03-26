@@ -1,5 +1,3 @@
 {
-  "values": [
-    "cutter:app/setup"
-  ]
+  "values": ["better_cutter:app/setup", "better_cutter:app/load_message"]
 }

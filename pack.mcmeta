@@ -4,12 +4,12 @@
     "min_format": 80,
     "max_format": 999,
     "supported_formats": {
-       "min_inclusive": 80,
-       "max_inclusive": 999
+      "min_inclusive": 80,
+      "max_inclusive": 999
     },
     "description": [
       {
-        "text": "\"Better Cutter\" (cutter)"
+        "text": "\"Better Cutter\" (better_cutter)"
       },
       "\n",
       {
@@ -21,7 +21,7 @@
         "text": "Version "
       },
       {
-        "text": "2.2.2",
+        "text": "2.2.3",
         "color": "#55ff55"
       },
       {
@@ -46,13 +46,13 @@
       {
         "directory": "overlay-88",
         "min_format": 88,
-        "max_format": 94
-     },
-     {
+        "max_format": 999
+      },
+      {
         "directory": "overlay-95",
         "min_format": 95,
         "max_format": 999
-     }
+      }
     ]
   }
 }

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "minecraft:waxed_copper_lantern",
-  "result": {
-    "id": "minecraft:copper_lantern",
-    "count": 1
-  }
-}
