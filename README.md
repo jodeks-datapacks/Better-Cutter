@@ -1,6 +1,6 @@
 <div align="center">
   
-![minecraft datapack](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/better_cutter)
+![minecraft datapack](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/better_cutter.png)
 
 </div>
 
