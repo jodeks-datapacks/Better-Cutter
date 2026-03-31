@@ -1,7 +1,7 @@
 {
-  "project_id": "SZIIbkwh",
-  "curseforge_project_id": "1429140",
-  "curseforge_mod_project_id": "1429143",
+  "modrinth_id": "SZIIbkwh",
+  "curseforge_id": "1429140",
+  "curseforge_mod_id": "1429143",
   "curseforge_slug": "improved-cutter",
   "loaders": ["datapack"],
   "game_versions": [
