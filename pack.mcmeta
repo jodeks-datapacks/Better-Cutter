@@ -26,7 +26,7 @@
         "text": " "
       },
       {
-        "text": "2.2.3",
+        "text": "2.2.4",
         "color": "#55ff55"
       },
 
@@ -54,6 +54,11 @@
       {
         "directory": "overlay-95",
         "min_format": 95,
+        "max_format": 999
+      },
+      {
+        "directory": "overlay-107.1",
+        "min_format": 107,
         "max_format": 999
       }
     ]

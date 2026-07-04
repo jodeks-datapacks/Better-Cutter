@@ -16,7 +16,7 @@ function better_cutter:image/set_image_data {\
     {text: "Better Cutter"},\
     {translate: "better_cutter.description", fallback: "Adds tweaks and heads for the stonecutter!"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v2.2.3", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v2.2.4", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/better_cutter", color: "#a800a8"},\
