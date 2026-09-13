@@ -10,12 +10,6 @@
                 "italic": false
             },
             "minecraft:profile": {
-                "id": [
-                    1426156393,
-                    1128286135,
-                    -1632869262,
-                    -445608589
-                ],
                 "properties": [
                     {
                         "name": "textures",
