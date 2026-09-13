@@ -11,12 +11,6 @@
       {
         "text": "\"Better Cutter\" (better_cutter)"
       },
-      "\n",
-      {
-        "translate": "better_cutter.description",
-        "fallback": "Adds tweaks and heads for the stonecutter!",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -26,7 +20,7 @@
         "text": " "
       },
       {
-        "text": "2.2.4",
+        "text": "2.3.0",
         "color": "#55ff55"
       },
 
@@ -52,13 +46,13 @@
         "max_format": 999
       },
       {
-        "directory": "overlay-95",
-        "min_format": 95,
+        "directory": "overlay-107.1",
+        "min_format": 107,
         "max_format": 999
       },
       {
-        "directory": "overlay-107.1",
-        "min_format": 107,
+        "directory": "overlay-121",
+        "min_format": 121,
         "max_format": 999
       }
     ]
